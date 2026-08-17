@@ -15,3 +15,4 @@ Ex:
 - expense: 10
 - expense: 15
 - expense: 1
+-total: 31
